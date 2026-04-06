@@ -1,0 +1,11 @@
+env/
+logs/
+node_modules/
+sites/*/site_config.json
+sites/*/private/
+sites/*/public/files/
+sites/*/locks/
+apps/frappe/
+apps/hrms/
+*.pyc
+__pycache__/
